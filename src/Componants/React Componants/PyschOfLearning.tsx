@@ -10,17 +10,14 @@ const PsychOfLearning = () => {
         <div className="grid-2c g_70-30 vw-100">
           <div className="learning-box">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias,
-              inventore est maxime soluta tempore similique libero dicta eum
-              consequuntur delectus hic ipsa repellat minus ad ab. Sunt error
-              dolores, officiis voluptatibus ullam vel tenetur. Modi quod odio
-              et adipisci incidunt ab ducimus at. Quos beatae quasi sed. Sit qui
-              aspernatur veritatis nihil officia vero fugiat? Blanditiis at quia
-              similique debitis possimus, ullam, illum nisi voluptatem eaque
-              repellat, odio reiciendis sed ipsam iusto atque nulla. Itaque
-              totam ex sequi placeat ipsam, id debitis quidem error. Aspernatur
-              sed ipsam fugit quis? Vitae non consequuntur saepe officiis ipsum,
-              vero qui quibusdam ducimus obcaecati.
+              I remember moving to back to India after living in the United
+              States, and not being able to communicate with the people in my
+              neighborhood. I yearned to play cricket with the kids on my block,
+              but could never find a way to connect with them. The language
+              barrier between us was more than just a mental construct- it was a
+              social one too. To this day, I wonder how different it would be if
+              I just knew my local language from the start. Maybe I'd have some
+              great friends I could chuck a ball around with.
             </p>
           </div>
           <div className="images">
@@ -40,17 +37,14 @@ const PsychOfLearning = () => {
           </div>
           <div className="learning-box">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias,
-              inventore est maxime soluta tempore similique libero dicta eum
-              consequuntur delectus hic ipsa repellat minus ad ab. Sunt error
-              dolores, officiis voluptatibus ullam vel tenetur. Modi quod odio
-              et adipisci incidunt ab ducimus at. Quos beatae quasi sed. Sit qui
-              aspernatur veritatis nihil officia vero fugiat? Blanditiis at quia
-              similique debitis possimus, ullam, illum nisi voluptatem eaque
-              repellat, odio reiciendis sed ipsam iusto atque nulla. Itaque
-              totam ex sequi placeat ipsam, id debitis quidem error. Aspernatur
-              sed ipsam fugit quis? Vitae non consequuntur saepe officiis ipsum,
-              vero qui quibusdam ducimus obcaecati.
+              To this end, our goal at Didaskō is to ensure that everyone gets a
+              say in their stories. To ensure no voice is left unheard. To
+              ensure no soul feels left out. Our passion applies to all ages,
+              from the youth to the elderly. This hits especially home, since
+              both my grandmothers lived their whole lives with the desire to
+              learn English, amplified especially after their temporary move to
+              the USA, where they found it especially difficult to connect with
+              people.
             </p>
           </div>
         </div>
