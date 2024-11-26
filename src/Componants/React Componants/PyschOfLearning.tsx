@@ -2,7 +2,7 @@ const PsychOfLearning = () => {
   return (
     <>
       <div className="center">
-        <h1 className="PsychLearn-header">The psychology of learning: </h1>
+        <h1 className="PsychLearn-header">About Us: </h1>
       </div>
 
       <div className="content">

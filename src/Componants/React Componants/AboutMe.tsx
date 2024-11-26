@@ -5,7 +5,7 @@ const AboutMe = () => {
     <>
       <div className="aboutme">
         <div className="center" style={{ marginBottom: 70 }}>
-          <h1>About Us</h1>
+          <h1>The Team</h1>
         </div>
         <div className="head">
           <img
