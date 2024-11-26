@@ -10,8 +10,8 @@ const PsychOfLearning = () => {
         <div className="grid-2c g_70-30 vw-100">
           <div className="learning-box">
             <p>
-              I remember moving to back to India after living in the United
-              States, and not being able to communicate with the people in my
+              I remember moving back to India after living in the United States,
+              and not being able to communicate with the people in my
               neighborhood. I yearned to play cricket with the kids on my block,
               but could never find a way to connect with them. The language
               barrier between us was more than just a mental construct- it was a
